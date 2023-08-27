@@ -8,7 +8,7 @@
 #### Walter Manuel Gomez Barrios
 - Legajo 1686010
 - Usuario Github: WalterGomez1999
-- #### Martina Roldán Pérez
+#### Martina Roldán Pérez
 - Legajo 1762308
 - Usuario Github: MartuRoldán
 
